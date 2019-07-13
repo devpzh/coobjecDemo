@@ -1,0 +1,20 @@
+PODS:
+  - coobjc (1.0.1):
+    - fishhook (~> 0.2.0)
+  - fishhook (0.2)
+
+DEPENDENCIES:
+  - coobjc
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - coobjc
+    - fishhook
+
+SPEC CHECKSUMS:
+  coobjc: 1954a85a5d83854810418114bf841fb60980b1b6
+  fishhook: ea19933abfe8f2f52c55fd8b6e2718467d3ebc89
+
+PODFILE CHECKSUM: 7f430de4840752b41e6f545787b6e112bb75a448
+
+COCOAPODS: 1.5.3
